@@ -1,0 +1,17 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button:hover{
+    background-color:dodgerblue;
+    color: white; 
+}
+/* selected items */
+.clicked{
+background-color: black;
+color: white;
+}
+.promo-btn:hover{
+    background-color: gray;
+    color: white; 
+}
